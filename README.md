@@ -26,4 +26,12 @@ submodule 두 개를 추가했고, .gitmodules 라는 파일이 생겼다.
  create mode 160000 react-course   
  create mode 160000 react-meetup   
 
- 9. github cli로 repo를 생성하고 push 했더니 
+ 9. github cli로 repo를 생성하고 push 했더니 submodule 파일은 올라가지 않는다.   
+ 
+ 10. submodules 아래 각각의 레포지터리를 모두 github에 생성하고 URL을 따냈다.
+
+ 11. submodule 각각의 URL을 변경해주었다.   
+ git submodule set-url react-course https://github.com/my-like/react-course.git   
+ git submodule set-url react-meetup https://github.com/my-like/react-meetup.git   
+
+ 12. 변경사항을 commit하고 다시 push 해본다..
