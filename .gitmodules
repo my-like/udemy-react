@@ -1,0 +1,6 @@
+[submodule "react-course"]
+	path = react-course
+	url = ./react-course
+[submodule "react-meetup"]
+	path = react-meetup
+	url = ./react-meetup
