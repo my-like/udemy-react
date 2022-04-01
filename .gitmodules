@@ -1,6 +1,0 @@
-[submodule "react-course"]
-	path = react-course
-	url = https://github.com/my-like/react-course.git
-[submodule "react-meetup"]
-	path = react-meetup
-	url = https://github.com/my-like/react-meetup.git
