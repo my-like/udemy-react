@@ -1,4 +1,4 @@
-Udemy React.js 강의 #https://www.udemy.com/course/best-react/
+Udemy React.js 강의 https://www.udemy.com/course/best-react/
 
 대략적인 순서
 1. ```create-react-app``` 으로 리액트 프로젝트 설치하고 ```npm start``` 로 모듈 설치 및 실행
