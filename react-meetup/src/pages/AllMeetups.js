@@ -5,7 +5,7 @@ const DUMMY_DATA = [
     id: "m1",
     title: "This is a first meetup",
     image:
-      "/public/logo192.png",
+      "/logo192.png",
     address: "Meetupstreet 5, 12345 Meetup City",
     description:
       "This is a first, amazing meetup which you definitely should not miss. It will be a lot of fun!",
